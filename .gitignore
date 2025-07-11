@@ -85,6 +85,13 @@ coverage.xml
 *.cover
 .hypothesis/
 
+# Test Reports and Results
+test-results/
+playwright-report/
+*.webm
+*.png
+test-failed-*.png
+
 # OpenTelemetry
 .opentelemetry/
 

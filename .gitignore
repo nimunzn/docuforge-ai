@@ -92,8 +92,8 @@ playwright-report/
 *.png
 test-failed-*.png
 
-# OpenTelemetry
-.opentelemetry/
+# OpenTelemetry (commented out to include directory)
+# .opentelemetry/
 
 # Node.js (for frontend)
 node_modules/

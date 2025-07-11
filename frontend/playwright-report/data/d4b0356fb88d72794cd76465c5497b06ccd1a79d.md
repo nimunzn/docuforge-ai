@@ -1,0 +1,76 @@
+# Page snapshot
+
+```yaml
+- heading "DocuForge AI" [level=1]
+- button "Collapse sidebar":
+  - img
+- button "New Document":
+  - img
+  - text: New Document
+- navigation:
+  - list:
+    - listitem:
+      - link "Documents":
+        - /url: /
+        - img
+        - text: Documents
+    - listitem:
+      - link "Archived":
+        - /url: /archived
+        - img
+        - text: Archived
+    - listitem:
+      - link "Settings":
+        - /url: /settings
+        - img
+        - text: Settings
+- heading "Recent Documents" [level=3]
+- img
+- text: User user@example.com
+- button "Notifications":
+  - img
+- main:
+  - img
+  - heading "Test Document" [level=1]
+  - text: test •
+  - button "Preview":
+    - img
+    - text: Preview
+  - button "Edit":
+    - img
+    - text: Edit
+  - button "Export":
+    - img
+    - text: Export
+  - img
+  - text: 468 words 3559 characters
+  - img
+  - text: 3 min read
+  - img
+  - text: "Created 7/9/2025 Model:"
+  - button "Openai · gpt-4":
+    - img
+    - text: Openai · gpt-4
+    - img
+  - img
+  - text: Saved 3:52:48 PM create a business plan template 10:00 PM
+  - img
+  - img
+  - button "Thinking...":
+    - img
+    - img
+    - text: Thinking...
+    - img
+  - text: 10:00 PM
+  - button "Copy":
+    - img
+    - text: Copy
+  - textbox "Ask me to create a document, modify content, or help with writing..." [disabled]
+  - button [disabled]:
+    - img
+  - text: Press Enter to send, Shift+Enter for new line
+  - img
+  - heading "Generated Document" [level=1]
+  - heading "Content" [level=2]
+  - text: "# Business Plan Template A well-structured business plan can be instrumental in driving the success of your business. This template will guide you through the process of crafting a comprehensive business plan. Replace the placeholder text with your own information. --- ## 1. Executive Summary This section provides a brief overview of your business. It should be concise and enticing to pique the interest of potential investors. - **Business Name**: [Your Business Name] - **Business Structure**: [Legal structure of your business] - **Location**: [Your Business Location] - **The Product/Service**: [What you're selling] - **The Market**: [Briefly describe your target market] - **Financial Projections**: [Summary of your financial forecasts] - **The Ask**: [How much funding you're asking for if you're presenting to investors] --- ## 2. Company Description Detail what your business does, the market needs it meets, and how it fulfills those needs. - **Mission Statement**: [Your mission statement] - **Structure**: [Details about your business structure] - **Ownership**: [Information about the business ownership] - **Products/Services**: [Detailed descriptions of your products or services] - **Unique Selling Proposition**: [What sets your business apart] --- ## 3. Market Analysis Showcase your industry and market knowledge here. - **Industry Description**: [Current state and future outlook of the industry] - **Target Market**: [In-depth details of your target market] - **Competitor Analysis**: [Analysis of your competition and how you compare] --- ## 4. Organization and Management Describe how your company is organized and who the key team members are. - **Organizational Structure**: [An organizational chart if applicable] - **Ownership Structure**: [Details about who owns what part of the company] - **Management Team**: [Backgrounds of key team members] - **Advisory Board**: [Details about your advisory board if applicable] --- ## 5. Services or Products Detail the products or services you offer. - **Product Description**: [Detailed explanation of your product/service] - **Product Lifecycle**: [Where are your products in their lifecycle?] - **Sourcing and Fulfillment**: [Where you get your products or how your services are provided] --- ## 6. Marketing and Sales Strategy Outline your marketing and sales strategy. - **Marketing Strategy**: [How you plan to market your products/services] - **Sales Strategy**: [How you plan to sell your products/services] --- ## 7. Financial Projections Provide an overview of your business's financial outlook. - **Revenue Projections**: [Your predicted revenue for the next three to five years] - **Profit and Loss Statement**: [Your current P&L statement] - **Cash Flow Statement**: [Your current cash flow statement] - **Balance Sheet**: [Your current balance sheet] - **Capital Expenditure Budget**: [How much you expect to spend on physical assets] --- ## 8. Funding Request If you're seeking funding, detail how much you're asking for and how it will be used. - **Funding Request**: [The amount of funding you're asking for] - **Funding Use**: [How you plan to use the funding] --- ## 9. Exit Strategy For investors, your exit strategy can be an important selling point. - **Exit Strategy**: [How you plan to provide a return to investors] --- Remember, the more specific and accurate you are in your business plan, the more likely you are to achieve the results you desire. A well-constructed business plan can help pave the path to success and profits."
+```
